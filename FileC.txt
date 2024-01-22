@@ -1,1 +1,2 @@
 This is file C
+adding second line to check changes 

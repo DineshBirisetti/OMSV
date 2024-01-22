@@ -1,1 +1,2 @@
 this is file B 
+adding secon lines to check version control 
