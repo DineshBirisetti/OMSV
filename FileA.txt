@@ -1,2 +1,4 @@
 This is file A
 Adding second line to check the changes 
+
+Additing to stage check 
