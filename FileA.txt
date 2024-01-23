@@ -2,3 +2,5 @@ This is file A
 Adding second line to check the changes 
 
 Additing to stage check 
+
+Addting changes to remote repo from desktop 
